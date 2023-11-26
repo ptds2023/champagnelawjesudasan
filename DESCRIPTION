@@ -12,7 +12,7 @@ LazyData: true
 RoxygenNote: 7.2.1
 URL: https://github.com/ptds2023/champagnelawjesudasan
 BugReports: https://github.com/ptds2023/champagnelawjesudasan/issues
-Depends: R (>= 4.3.0)
+Depends: R (>= 4.2.0)
 Imports:
     purrr (>= 1.0.2)
 Suggests:

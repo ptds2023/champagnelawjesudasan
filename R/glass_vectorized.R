@@ -10,3 +10,4 @@
 #' @examples
 #' glass_vectorized(c(-1, 0.25, 5, 12, 16, 21))
 glass_vectorized <- Vectorize(glass)
+
