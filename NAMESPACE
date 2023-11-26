@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+
+export(glass)
+export(glass_for_loop)
+export(glass_purrr)
+export(glass_sapply)
+export(glass_vectorized)
+export(glass_vectorized_boolean)
