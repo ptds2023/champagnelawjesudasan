@@ -14,7 +14,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, macOS-latest, windows-latest]
-        R: [latest]
+        R: 4.2
     
     steps:
     - name: Checkout repository
