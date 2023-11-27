@@ -13,7 +13,7 @@ champagnelawjesudasan is a package that allows the use of several functions that
 ## Installation
 
 ``` r
-# The easiest way to get champagnelawjesudasan is to install the whole tidyverse:
+# The easiest way to get champagnelawjesudasan is to install the package:
 install.packages("champagnelawjesudasan")
 ```
 
@@ -41,7 +41,7 @@ glass_for_loop(10)
 There are two main ways to get help with champagnelawjesudasan:
 
 1.  Using your brain. If you think, you can find a solution.
-2.  Contacting the creator the package, at lawrence.jesudasan(at)unil.ch
+2.  Contacting the creator of the package, at *lawrence.jesudasan(at)unil.ch*
 
 
 
