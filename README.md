@@ -10,6 +10,10 @@
 
 champagnelawjesudasan is a package that allows the use of several functions that calculate the profile of a champagne glass.
 
+## Website link
+
+<https://ptds2023.github.io/champagnelawjesudasan/>
+
 ## Installation
 
 ``` r
